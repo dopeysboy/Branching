@@ -1,7 +1,8 @@
 ## Git Cheat Sheet
 
 List of commands and practice with branching.
-
+STUFF ADDED HERE IN MAIN Branch
+MORE MAIN STUFF
 ### Basic Commands
 
 * `git init` - initialize local repo in working directory
